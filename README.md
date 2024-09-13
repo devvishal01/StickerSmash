@@ -8,7 +8,7 @@ Sticker Smash is a simple app built with Expo that allows users to add predefine
 - **Gesture-Based Controls**: Use gestures to adjust and position stickers on the photo.
 - **Save to Gallery**: Save the edited photos directly to your phone's media gallery.
 
-![Sticker Smash Screenshot](https://example.com/path/to/your/screenshot.jpg)
+![Sticker Smash Screenshot]([https://example.com/path/to/your/screenshot.jpg](https://github.com/devvishal01/StickerSmash/blob/master/assets/icon.png))
 
 ## Installation
 
